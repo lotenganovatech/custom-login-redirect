@@ -7,12 +7,9 @@
  * Version:              3.0.0
  * Author:               Loteng Anova Teknologi
  * Author URI:           https://loteng.net
- * Requires License:     yes
  * Text Domain:          custom-login-redirect
  * Requires at least:    4.1
  * Requires PHP:         7.0
- * UpdatePulse Package:  custom-login-redirect
- * UpdatePulse Server:   https://loteng.net/wp-json/updatepulse-server/v1
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
